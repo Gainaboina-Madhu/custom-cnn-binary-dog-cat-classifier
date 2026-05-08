@@ -85,7 +85,7 @@ training_data_preprocessing = ImageDataGenerator(
 
 ## 🏗️ Model Architecture
 
-The model is a **Sequential CNN** with **5 convolutional** blocks followed by 5 dense layers.
+The model is a **Sequential CNN** with **5 convolutional** blocks followed by **5 dense layers**.
 
 ### Convolutional Blocks (Feature Extraction)
 
