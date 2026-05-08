@@ -62,7 +62,7 @@ import os
 
 ## 🔄 Data Preprocessing
 
-Images are preprocessed using `ImageDataGenerator`:
+**Images are preprocessed using `ImageDataGenerator`:**
 
 - **Pixel scaling:** values normalized to `[0, 1]` (divided by 255)
 - **Rotation range:** ±20%
