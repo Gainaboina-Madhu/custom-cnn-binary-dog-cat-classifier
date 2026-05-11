@@ -201,7 +201,6 @@ predict_cnn('/content/dog.jpeg')
 
 ---
 
-
 ## 📄 License
 
 This project is for educational purposes. Dataset sourced from [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats).
