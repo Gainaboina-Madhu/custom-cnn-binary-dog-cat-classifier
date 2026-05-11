@@ -194,6 +194,13 @@ predict_cnn('/content/dog.jpeg')
 
 ---
 
+## Author
+
+This project was created and maintained by **Gainaboina Madhu.**
+
+---
+
+
 ## 📄 License
 
 This project is for educational purposes. Dataset sourced from [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats).
