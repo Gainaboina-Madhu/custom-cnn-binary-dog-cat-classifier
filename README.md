@@ -2,6 +2,8 @@
 
  - Dataset link - https://www.kaggle.com/datasets/princelv84/dogsvscats
 
+---
+
 # 🐶🐱 Binary CNN — Dog vs Cat Classifier
 
 A **custom Convolutional Neural Network (CNN)** built from scratch using TensorFlow/Keras to perform **binary image classification** between dogs and cats.
