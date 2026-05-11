@@ -10,7 +10,7 @@ A **custom Convolutional Neural Network (CNN)** built from scratch using TensorF
 
 ## 📌 Project Overview
 
-This project trains a deep CNN model on a labeled dataset of dog and cat images. The model learns to distinguish between the two classes using convolutional feature extraction followed by a fully connected ANN head with a sigmoid output for binary classification.
+This project trains a deep CNN model on a **labeled dataset of dog and cat images**. The model learns to distinguish between the two classes using convolutional feature extraction followed by a fully connected ANN head with a sigmoid output for binary classification.
 
 ---
 
