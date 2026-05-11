@@ -196,8 +196,8 @@ predict_cnn('/content/dog.jpeg')
 
 ## Author
 
-**GAINABOINA MADHU**
-Project Author & Developer.
+- **GAINABOINA MADHU**
+- Project Author & Developer.
 
 ---
 
