@@ -196,7 +196,8 @@ predict_cnn('/content/dog.jpeg')
 
 ## Author
 
-This project was created and maintained by **Gainaboina Madhu.**
+**GAINABOINA MADHU**
+Project Author & Developer.
 
 ---
 
