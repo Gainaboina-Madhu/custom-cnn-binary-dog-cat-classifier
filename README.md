@@ -6,7 +6,7 @@
 
 # 🐶🐱 Binary CNN — Dog vs Cat Classifier
 
-A **custom Convolutional Neural Network (CNN)** built from scratch using TensorFlow/Keras to perform **binary image classification** between dogs and cats.
+A **custom Convolutional Neural Network (CNN)** built from scratch using **TensorFlow/Keras** to perform **binary image classification** between dogs and cats.
 
 ---
 
