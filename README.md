@@ -168,7 +168,7 @@ def predict_cnn(path_of_image):
 predict_cnn('/content/dog.jpeg')
 ```
 
-> The model outputs a sigmoid probability. Values **> 0.5** → `cats`, values **≤ 0.5** → `dogs`.
+> The model outputs a **sigmoid probability**. Values **> 0.5** → `cats`, values **≤ 0.5** → `dogs`.
 
 ---
 
