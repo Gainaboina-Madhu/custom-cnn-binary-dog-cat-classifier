@@ -206,4 +206,4 @@ Project Author & Developer.
 
 ## 📄 License
 
-This project is for educational purposes. Dataset sourced from [Kaggle Dogs vs. Cats](https://www.kaggle.com/c/dogs-vs-cats).
+This project is for educational purposes. Dataset sourced from **[Kaggle Dogs vs. Cats]** (https://www.kaggle.com/c/dogs-vs-cats).
