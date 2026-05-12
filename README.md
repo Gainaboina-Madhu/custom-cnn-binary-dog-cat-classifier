@@ -196,7 +196,7 @@ predict_cnn('/content/dog.jpeg')
 
 ---
 
-## Author
+## 👤 Author
 
 **GAINABOINA MADHU**
 
